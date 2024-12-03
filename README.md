@@ -1,3 +1,3 @@
-
-<h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
+<div align="center">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+</div>
